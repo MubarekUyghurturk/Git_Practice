@@ -1,0 +1,39 @@
+====== How to create .gitignore file? ======
+   First select the file or folder that we want to ignore than right click
+   Git -> Add to .gitignore -> Add to .gitignore
+
+
+   ====== How to create local repository? ======
+   Click VCS -> enable to version control integration -> select 'Git' -> Ok
+
+
+   ======= How to add your GitHub.com to your IntelliJ? =======
+   Click IntelliJ IDEA -> Preferences -> Version Control(on the left side) -> GitHub -> Add Account -> if you used 'Jetbrains toolbox' when you install your IDE the link lead you to the jetbrains.com than you can click the 'Authorize in GitHub' button -> Apply and Ok
+
+
+   ======= How to share your Project/package/code on GitHub? ======
+   1) After finish your code your have to:
+   Click Git -> Commit -> add Commit Message -> Click Commit
+   2) Click Git -> GitHub -> Share Project on GitHub -> Share
+   (you can only able to click 'share project' button one time, after than you have to 'push' your code to github not share)
+   3) to see your project on GitHub:
+   Click Git -> Github -> Open On GitHub
+
+
+   ======= How to untrack file and folder? ======
+   For untrack '.idea' folder we use ==> git rm -r --cached .idea
+   For untrak 'AutomationProject.iml' file ==> git rm --cached AutomationProject.iml
+
+
+   ======== How to fetch the code from remote repo? =======
+   If something new in our remote repo, we have to fetch the code first , than pull the code. The process might be:
+   Click Git -> Fetch(if we do fetch, out local repo get the information from the remote repo) -> than click 'pull' ->
+
+
+   ========= How to change if we made a last commit wrong? =========
+   First go to 'Log' double click wrong commit.
+   Edit Commit Message -> make some change -> Ok
+
+
+   ========
+
