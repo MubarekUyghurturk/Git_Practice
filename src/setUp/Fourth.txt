@@ -1,0 +1,6 @@
+
+this is in master branch
+
+random text
+
+already merged two child branch to the master branch
