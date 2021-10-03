@@ -1,4 +1,24 @@
-====== How to create .gitignore file? ======
+   ====== How to Git setup on terminal? ======
+   git config --global user.name "YourGitHubUserName"
+   git config --global user.email email@gmail.com
+   git config --global user.password "password"
+
+
+
+   ====== How to create local repo by using terminal in Mac? ======
+   1) go to project, right click project and copy absolute path of project.
+   2) open terminal, type ---> cd (paste copy) and enter
+   3) git init ===> created
+   4) git add . ===> your code will be in staging area.
+   5) git commit -m"write your commit here"
+
+
+   git lod === is for check commit history (for escape --> type q or wq)
+   git status === is for check which step we are at
+
+
+
+   ====== How to create .gitignore file? ======
    First select the file or folder that we want to ignore than right click
    Git -> Add to .gitignore -> Add to .gitignore
 
@@ -8,14 +28,14 @@
 
 
    ======= How to add your GitHub.com to your IntelliJ? =======
-   Click IntelliJ IDEA -> Preferences -> Version Control(on the left side) -> GitHub -> Add Account -> if you used 'Jetbrains toolbox' when you install your IDE the link lead you to the jetbrains.com than you can click the 'Authorize in GitHub' button -> Apply and Ok
+   Click IntelliJ IDEA -> Preferences -> Version Control(on the left side) -> GitHub -> Add Account -> if you used 'Jetbrains toolbox' when you install  your IDE the link lead you to the jetbrains.com than you can click the 'Authorize in GitHub' button -> Apply and Ok
 
 
    ======= How to share your Project/package/code on GitHub? ======
    1) After finish your code your have to:
    Click Git -> Commit -> add Commit Message -> Click Commit
    2) Click Git -> GitHub -> Share Project on GitHub -> Share
-   (you can only able to click 'share project' button one time, after than you have to 'push' your code to github not share)
+   (you can only able to click 'share project' button one time, after than  you have to 'push' your code to github not share)
    3) to see your project on GitHub:
    Click Git -> Github -> Open On GitHub
 
