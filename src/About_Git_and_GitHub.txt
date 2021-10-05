@@ -40,6 +40,7 @@
    1) created child branch on intelliJ
    2) added some change on child branch
    3) commit and push to the GitHub
+   4) click 'Pull Requests'
 
 
 
