@@ -36,7 +36,10 @@
    Edit Commit Message -> make some change -> Ok
 
 
-   ========
+   ======== How to merge child branch to master branch on github? =======
+   1) created child branch on intelliJ
+   2) added some change on child branch
+   3) commit and push to the GitHub
 
 
 

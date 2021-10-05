@@ -2,10 +2,10 @@ package setUp;
 
 public class Car {
 
-    // this is our car from mubarek branch
+    // this is car class from master branch
 
-    // more text
+    // we will have conflict
 
-    // more text
+    // because there is different text in different for car
 
 }
