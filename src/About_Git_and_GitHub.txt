@@ -47,8 +47,9 @@
    7) click 'Confirm merge' (that means we successfully merged our child branch to the master branch)
    8) come back to our intelliJ
    click Git -> Update Project (it makes our intelliJ master branch update)
+
 NOTE:
-   if we want to let other team members to review our code, after we click 'Create pull request' (at steeps 5)
+   if we want to let other team members to review our code, after we click 'Create pull request' (at steeps 5) we can see the 'review' button on the right side.
 
 
 
