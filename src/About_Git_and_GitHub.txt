@@ -40,7 +40,7 @@
    1) created child branch on intelliJ
    2) added some change on child branch
    3) commit and push to the GitHub
-   4) click 'Compare & pull request' (green button)
+   4) click 'Compare & pull request' (green button) // OR click 'Pull request' on the top then click 'New pull request'(green button)
    5) Have to be:   base:master <-- compare:mubarek
    and make some commit then click 'Create pull request'
    6) click 'Merge pull request' green button
@@ -49,7 +49,8 @@
    click Git -> Update Project (it makes our intelliJ master branch update)
 
 NOTE:
-   if we want to let other team members to review our code, after we click 'Create pull request' (at steeps 5) we can see the 'review' button on the right side.
+   if we want to let other team members to review our code, we have to do:
+   Pull request -> new pull request -> Have to be:   base:master <-- compare:mubarek then click -> Create pull request -> we can see 'Reviewers' on the right side, and choose our team member who have to review our code.
 
 
 
