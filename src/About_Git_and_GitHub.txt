@@ -40,7 +40,14 @@
    1) created child branch on intelliJ
    2) added some change on child branch
    3) commit and push to the GitHub
-   4) click 'Pull Requests'
+   4) click 'Compare & pull request' (green button)
+   5) Have to be:   base:master <-- compare:mubarek
+   and make some commit then click 'Create pull request'
+   6) click 'Merge pull request' green button
+   7) click 'Confirm merge' (that means we successfully merged our child branch to the master branch)
+   8) come back to our intelliJ
+   click Git -> Update Project (it makes our intelliJ master branch update)
+
 
 
 
