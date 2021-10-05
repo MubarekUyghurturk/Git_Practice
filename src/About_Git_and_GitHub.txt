@@ -48,7 +48,7 @@
    8) come back to our intelliJ
    click Git -> Update Project (it makes our intelliJ master branch update)
 NOTE:
-   if we want to let other team members to review our code, after we click 'Compare & pull request' (at steeps 4)
+   if we want to let other team members to review our code, after we click 'Create pull request' (at steeps 5)
 
 
 
