@@ -71,7 +71,7 @@ NOTE:
    5) git commit -m"write your commit here"
 
 
-   git lod === is for check commit history (for escape --> type q or wq)
+   git log === is for check commit history (for escape --> type q or wq)
    git status === is for check which step we are at
 
 
